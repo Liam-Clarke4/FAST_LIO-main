@@ -2,7 +2,7 @@
 // following paper:
 //   J. Zhang and S. Singh. LOAM: Lidar Odometry and Mapping in Real-time.
 //     Robotics: Science and Systems Conference (RSS). Berkeley, CA, July 2014.
-//my
+
 // Modifier: Livox               dev@livoxtech.com
 
 // Copyright 2013, Ji Zhang, Carnegie Mellon University
